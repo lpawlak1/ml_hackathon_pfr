@@ -87,3 +87,10 @@ VOIVODESHIP\_ŁÓDZKIE
 VOIVODESHIP\_ŚLĄSKIE
 
 VOIVODESHIP\_ŚWIĘTOKRZYSKIE
+
+
+# Notes
+
+get_dummies: try n-1 dummies for n values
+cluster age data even more
+cluster sexes into two categories (k -means?)
